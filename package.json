@@ -1,0 +1,17 @@
+{
+  "name": "symbolica",
+  "version": "0.0.1",
+  "description": "",
+  "main": "target/symbolica.js",
+  "type": "module",
+  "author": "Eric Buss (root@ejrbuss.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
